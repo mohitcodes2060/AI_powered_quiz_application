@@ -1,0 +1,5 @@
+com\example\quizserver\api\AuthController.class
+com\example\quizserver\api\ResultsController.class
+com\example\quizserver\api\AdminController.class
+com\example\quizserver\api\QuizController.class
+com\example\quizserver\QuizServerApplication.class
